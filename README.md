@@ -1,2 +1,2 @@
 # Perplexity
-Hackable platform for puzzles.
+Hackable platform for puzzles in MicroPython.
